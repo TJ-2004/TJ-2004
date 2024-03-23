@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tanishq Jaiswal</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<p align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Hi+👋+,+I'm+Tanishq+Jaiswal" alt="Typing SVG" /></a></p>
+<p align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=700&lines=A+passionate+fullstack+developer+from+India." alt="Typing SVG" /></a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="s1834">
+ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tj-2004&label=Profile%20views&color=0e75b6&style=flat" alt="tj-2004" /> </p>
 
