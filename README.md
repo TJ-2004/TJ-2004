@@ -4,8 +4,16 @@
 <p align="center">
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=700&lines=A+Passionate+Full+Stack+Developer+From+India." alt="Typing SVG" /></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tj-2004&label=Profile%20views&color=0e75b6&style=flat" alt="tj-2004" /> </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="s1834">
+<p align="left">
+ - 🌱 I’m currently learning  Data Structures and Algorithms, Blockchain ,Web3.
+
+- 🔭 I’m currently working on **Digimart**
+
+- 💬 Ask me about **Full Stack, Blockchain, MERN , Solidity,Web3**
+
+- 📫 How to reach me **tanishqjais9756@gmail.com**
+
+- ⚡ Fun fact: **When I'm not coding, you'll probably find me watching or playing cricket.😎**
  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tj-2004" alt="tj-2004" /></a> </p>
